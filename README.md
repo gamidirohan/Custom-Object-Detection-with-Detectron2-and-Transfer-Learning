@@ -42,8 +42,8 @@ Object detection is a crucial task in computer vision, enabling systems to ident
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   [git clone https://github.com/yourusername/your-repo-name.git](https://github.com/gamidirohan/Underwater-Object-Detection-with-Detectron2-and-Transfer-Learning.git](https://github.com/gamidirohan/Underwater-Object-Detection-with-Detectron2-and-Transfer-Learning.git)
+   cd Underwater-Object-Detection-with-Detectron2-and-Transfer-Learning
    ```
 
 2. **Install Dependencies**
