@@ -1,12 +1,4 @@
-**Title:**
-
-# Custom Object Detection with Detectron2 and Transfer Learning
-
-**README.md Content:**
-
----
-
-# Custom Object Detection with Detectron2 and Transfer Learning
+# Underwater Object Detection with Detectron2 and Transfer Learning
 
 ## Overview
 
