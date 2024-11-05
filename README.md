@@ -204,7 +204,3 @@ with open('config.yml', 'w') as f:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README.md content to better suit your project's specifics, such as adding more detailed instructions, adjusting code snippets, or including additional sections like FAQs or Troubleshooting.
